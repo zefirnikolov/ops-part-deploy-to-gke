@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: zefirnikolov/reactjsapp:da6e625
+        image: zefirnikolov/reactjsapp:c77f3ad
         resources:
           requests:
             memory: 100Mi
